@@ -1,0 +1,2 @@
+public class CocoJumbo {
+}
